@@ -27,7 +27,7 @@ Recomendamos usar la aplicación "Downloader by AFTVnews" para una instalación 
     Busca este icono si ya la tienes instalada por defecto en tu Smart TV:
     
     ![Logotipo de la aplicación Downloader](https://framerusercontent.com/images/5rMAprhC2bEOncFtYwyBQA4KLc.png)
-    *(Asegúrate de que la imagen `instalacion1.PNG` esté en la misma carpeta que este archivo README para que se muestre correctamente.)*
+    
 
 ### 2. Mediante Descarga Directa por Navegador Web
 
