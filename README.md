@@ -35,8 +35,12 @@ Ingresar URL: Abra Downloader
   Y LUEGO
  CLICK EN GO...LUEGO eje que DOWNLOADER DESCAGUE E INSTALE...ABRA LA APLICACION
 
+  ![Logotipo de la aplicación Downloader](https://i.postimg.cc/PfFCsK5V/DOUJ.jpg)
+ 
+ https://i.postimg.cc/PfFCsK5V/DOUJ.jpg)
+  
      ![Logotipo de la aplicación Downloader]
-  .(https://i.postimg.cc/PfFCsK5V/DOUJ.jpg)
+    .(https://i.postimg.cc/PfFCsK5V/DOUJ.jpg).
 
 
  ![Logotipo de la aplicación Downloader]
