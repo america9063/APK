@@ -27,7 +27,22 @@ Recomendamos usar la aplicación "Downloader by AFTVnews" para una instalación 
     Busca este icono si ya la tienes instalada por defecto en tu Smart TV:
     
     ![Logotipo de la aplicación Downloader](https://framerusercontent.com/images/5rMAprhC2bEOncFtYwyBQA4KLc.png)
-    
+
+La mayoria de los Smarts Tv y Tvbox la tienen por defecto.
+si no es asi ...Descargue "Downloader" desde la tienda de aplicaciones Google Play Store.
+Ingresar URL: Abra Downloader
+ y escriba la URL del APK :  `http://aftv.news/3086864`
+  Y LUEGO
+ CLICK EN GO...LUEGO eje que DOWNLOADER DESCAGUE E INSTALE...ABRA LA APLICACION
+
+     ![Logotipo de la aplicación Downloader]
+  (https://i.postimg.cc/PfFCsK5V/DOUJ.jpg)
+
+
+ ![Logotipo de la aplicación Downloader]
+  (https://i.postimg.cc/PfFCsK5V/DOUJ.jpg)
+
+  
 
 ### 2. Mediante Descarga Directa por Navegador Web
 
@@ -54,3 +69,5 @@ Si prefieres una instalación offline o directamente desde un almacenamiento fí
 ### ¿Necesitas Ayuda?
 
 Si tienes alguna pregunta o encuentras algún problema durante la instalación, no dudes en contactarnos.
+
+WhatsApp  +57 310 4268131
