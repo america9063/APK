@@ -8,7 +8,7 @@ Esta guía detalla los diferentes métodos para instalar la aplicación en tus d
 
 Haz clic en el siguiente enlace para descargar el archivo APK completo:
 
-[**Descargar Archivo Completo Aquí**](https://bit.ly/44ede3S)
+[**Descargar Archivo Completo Aquí**](http://aftv.news/3086864)
 
 ---
 
@@ -36,7 +36,7 @@ Este método permite la descarga directa utilizando cualquier navegador web en t
 * **Pasos:**
     1.  Abre el navegador web de tu dispositivo (Android o Smart TV).
     2.  Ingresa la siguiente URL directamente en la barra de direcciones:
-        `https://bit.ly/44ede3S`
+        `http://aftv.news/3086864`
     3.  Una vez descargado, abre el archivo y sigue las instrucciones de instalación.
 
 ### 3. Usando una Unidad USB (Pendrive)
