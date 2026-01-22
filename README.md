@@ -8,7 +8,7 @@ Esta guía detalla los diferentes métodos para instalar la aplicación en tus d
 
 Haz clic en el siguiente enlace para descargar el archivo APK completo:
 
-[**Descargar Archivo Completo Aquí**](http://aftv.news/3086864)
+[**Descargar Archivo Completo Aquí**](https://drive.google.com/uc?id=1OJGRl4N4KrGe6eTZikkpppEUua_pLF-t&export=download)
 
 ---
 
